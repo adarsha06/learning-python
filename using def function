@@ -1,0 +1,6 @@
+# program to define def function and then passing parameters through it.
+
+def hello():
+    print "hello"
+    return 1234
+print hello()
