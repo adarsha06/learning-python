@@ -1,0 +1,4 @@
+# First python program on tuples.
+tom = ( 'January','February','March','April','May','June',\
+        'July','August','September','October','November','December')
+print tom[2]
